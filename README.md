@@ -8,6 +8,6 @@ The application can be started up by entering the following command from within 
 
 `mvn spring-boot:run`
 
-#Additional info
+## Additional info
 Documentation in swagger:
 http://localhost:8080/swagger-ui/index.html
